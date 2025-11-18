@@ -3,6 +3,8 @@ Style constants for the Hospital Management System UI
 Uses lemon yellow and sky blue color scheme as requested
 """
 
+import tkinter as tk 
+
 # Color Scheme
 PRIMARY_COLOR = "#4CC9F0"      # Sky Blue (primary buttons, headers)
 SECONDARY_COLOR = "#72EFDD"    # Teal accent
